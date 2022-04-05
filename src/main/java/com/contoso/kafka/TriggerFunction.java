@@ -2,9 +2,9 @@ package com.contoso.kafka;
 
 import com.contoso.kafka.entity.Header;
 import com.contoso.kafka.entity.KafkaEntity;
+import com.contoso.kafka.entity.Payment;
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
-import io.confluent.examples.clients.basicavro.Payment;
 //import io.confluent.examples.clients.basicavro.Payment;
 
 /**
