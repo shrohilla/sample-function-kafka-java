@@ -7,3 +7,5 @@ Java use maven. You also don't need to do `func extensions install`.
 mvn clean package
 mvn azure-functions:run
 ```
+
+Add the required settings in localsettings.json
